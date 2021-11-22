@@ -1,6 +1,6 @@
 package sahmaliyev.amrullah.model;
 
-import static sahmaliyev.amrullah.print.Print.printL;
+import static sahmaliyev.amrullah.print.Print.*;
 
 public abstract class MetodAbstractClass {
 	// метод печатает данную строку
